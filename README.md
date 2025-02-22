@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm **Tusher**
 
-![Profile Banner](A_futuristic_technology-themed_banner_with_vibrant.png)
+![Profile Banner](A_futuristic_technology-themed_banner_with_vibrant.png.png)
 
 <p align="center">
   <em>💡 Aspiring Programmer | 💻 Tech Enthusiast | 🚀 Lifelong Learner</em>
