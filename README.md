@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm **Tusher**
 
-![Profile Banner](https://raw.githubusercontent.com/your-username/your-repo/main/A_futuristic_technology-themed_banner_with_vibrant.png)
+![Profile Banner](https://raw.githubusercontent.com/M-F-Tushar/M-F-Tushar/main/A_futuristic_technology-themed_banner_with_vibrant.png)
 
 <p align="center">
   <em>💡 Aspiring Programmer | 💻 Tech Enthusiast | 🚀 Lifelong Learner</em>
