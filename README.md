@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm **Tusher**
 
 ![Header](./github-header-image.png)
+
 <p align="center">
   <em>💡 Aspiring Programmer | 💻 Tech Enthusiast | 🚀 Lifelong Learner</em>
 </p>
