@@ -10,7 +10,7 @@
 ## 🔥 About Me
 - 🎯 Passionate about coding and problem-solving
 - 🌱 Currently learning **Python & IT Fundametal**
-- 📧 Reach me at: **mahirfaysaltushar@gmail.com**
+- 📧 Reach me at: **www.mahirfaysaltushar@gmail.com**
 
 ---
 
