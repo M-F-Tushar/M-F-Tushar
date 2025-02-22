@@ -1,25 +1,61 @@
-<h1 align="center">Hi 👋, I'm Tusher</h1>
-<h3 align="center">Hoping to become a programmer.</h3>
+### Hi there! 👋 I'm **Tusher**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-f-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="m-f-tushar" /> </p>
+![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-f-tushar" alt="m-f-tushar" /></a> </p>
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **www.mahirfaysaltushar@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mahir-faysal-tusher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahir-faysal-tusher" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mahir faysal tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahir faysal tushar" height="30" width="40" /></a>
+<p align="center">
+  <em>💡 Aspiring Programmer | 💻 Tech Enthusiast | 🚀 Lifelong Learner</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-f-tushar&show_icons=true&locale=en&layout=compact" alt="m-f-tushar" /></p>
+## 🔥 About Me
+- 🎯 Passionate about coding and problem-solving
+- 🌱 Currently learning **Python & Web Development**
+- 🎨 Love designing interactive and functional UIs
+- 📧 Reach me at: **mahirfaysaltushar@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-f-tushar&show_icons=true&locale=en" alt="m-f-tushar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-f-tushar&" alt="m-f-tushar" /></p>
+## 🚀 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahir-faysal-tusher" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/mahir-faysal-tusher" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚙️ Technologies & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-f-tushar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-f-tushar&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m-f-tushar&theme=dracula&margin-w=15" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-f-tushar&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+⭐ **If you like my profile, consider giving a star!** ⭐
