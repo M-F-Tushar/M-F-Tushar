@@ -11,7 +11,6 @@
 ## 🔥 About Me
 - 🎯 Passionate about coding and problem-solving
 - 🌱 Currently learning **Python & IT Fundametal**
-- 🎨 Love designing interactive and functional UIs
 - 📧 Reach me at: **mahirfaysaltushar@gmail.com**
 
 ---
