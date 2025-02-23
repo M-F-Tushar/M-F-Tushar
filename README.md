@@ -1,5 +1,5 @@
 
-![Header](./github-header-image%20(1).png)
+![Header](./github-header-image%20(2).png)
 
 <p align="center">
   <em>💡 Aspiring Programmer | 💻 Tech Enthusiast | 🚀 Lifelong Learner</em>
