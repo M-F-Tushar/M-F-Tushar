@@ -33,6 +33,11 @@
 ---
 
 ## 📊 GitHub Stats
+### Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-f-tushar&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-f-tushar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
