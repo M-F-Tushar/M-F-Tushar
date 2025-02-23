@@ -61,4 +61,13 @@
 
 ---
 
+## 🎓 Education
+| Degree | Institution | Year |
+|--------|-------------------------------|--------------|
+| Bachelor's in Computer Science | Chandpur Science and Technology University | In progress |
+| Higher Secondary | Chandpur Govt College | 2022 |
+| Secondary | Hasan Ali Govt High school, Chandpur | 2020 |
+
+---
+
 ⭐ **If you like my profile, consider giving a star!** ⭐
