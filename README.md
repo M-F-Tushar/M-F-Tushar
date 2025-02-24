@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
+<img src="https://img.shields.io/badge/-TeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Stats
