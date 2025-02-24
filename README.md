@@ -7,7 +7,6 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-f-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="m-f-tushar" /> </p>
----
 ## 🔥 About Me
 - 🎯 Passionate about coding and problem-solving
 - 🌱 Currently learning **Python & IT Fundametal**
