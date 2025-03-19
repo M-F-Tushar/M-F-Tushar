@@ -13,7 +13,7 @@
 - 🎯 Passionate about coding and problem-solving
 - 🌱 Currently learning **Python & IT Fundametal**
 - 📧 Reach me at: **www.mahirfaysaltushar@gmail.com**
-- 🎁 Interested in '**Machine Learning** and **Cybersecurity**
+- 🎁 Interested in **Machine Learning** and **Cybersecurity**
 ---
 
 ## 🚀 Connect with Me
