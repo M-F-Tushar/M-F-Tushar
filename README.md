@@ -18,8 +18,8 @@
 
 ## 🚀 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahir-faysal-tusher" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/mahir-faysal-tusher" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)  
+  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](your-link)
 </p>
 
 ---
