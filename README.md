@@ -6,20 +6,26 @@
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-f-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="m-f-tushar" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=m-f-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="m-f-tushar" />
+</p>
 
 ## 🔥 About Me
 - 🎯 Passionate about coding and problem-solving
-- 🌱 Currently learning **Python & IT Fundametal**
-- 📧 Reach me at: **www.mahirfaysaltushar@gmail.com**
+- 🌱 Currently learning **Python & IT Fundamentals**
+- 📧 Reach me at: **mahirfaysaltushar@gmail.com**
 - 🎁 Interested in **Machine Learning** and **Cybersecurity**
+
 ---
 
 ## 🚀 Connect with Me
 <p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)  
-  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](your-link)
+  <a href="your-linkedin-url" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="your-stackoverflow-url" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
 </p>
 
 ---
@@ -69,7 +75,7 @@
 |--------|-------------------------------|--------------|
 | Bachelor's in Computer Science | Chandpur Science and Technology University (CSTU) | In progress |
 | Higher Secondary | Chandpur Govt College | 2022 |
-| Secondary | Hasan Ali Govt High school, Chandpur | 2020 |
+| Secondary | Hasan Ali Govt High School, Chandpur | 2020 |
 
 ---
 
