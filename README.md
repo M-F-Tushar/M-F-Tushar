@@ -17,13 +17,13 @@
 
 ---
 
-## 🚀 Connect with Me
+# 🚀 Connect with Me
 <p align="center">
   <a href="your-linkedin-url" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gradient&logoWidth=20&rounded=true" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gradient&logoWidth=20&logoRounded=true" alt="LinkedIn" />
   </a>
   <a href="your-stackoverflow-url" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=gradient&logoWidth=20&rounded=true" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack%20Overflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=gradient&logoWidth=20&logoRounded=true" alt="Stack Overflow" />
   </a>
 </p>
 
@@ -31,11 +31,11 @@
 
 ## ⚙️ Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white&labelColor=gradient&rounded=true" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=gradient&rounded=true" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=gradient&rounded=true" />
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=gradient&rounded=true" />
-  <img src="https://img.shields.io/badge/TeX-%23008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=gradient&rounded=true" />
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white&labelColor=gradient&logoRounded=true" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=gradient&logoRounded=true" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=gradient&logoRounded=true" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=gradient&logoRounded=true" />
+  <img src="https://img.shields.io/badge/TeX-%23008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=gradient&logoRounded=true" />
 </p>
 
 ---
