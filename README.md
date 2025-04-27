@@ -19,7 +19,7 @@
 
 # 🚀 Connect with Me
 <p align="center">
-  <a href="your-linkedin-url" target="_blank">
+  <a href="www.linkedin.com/in/mahir-faysal-tusher" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=gradient&logoWidth=20&logoRounded=true" alt="LinkedIn" />
   </a>
   <a href="your-stackoverflow-url" target="_blank">
