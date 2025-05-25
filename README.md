@@ -11,9 +11,9 @@
 
 ## 🔥 About Me
 - 🎯 Passionate about coding and problem-solving
-- 🌱 Currently learning **Python & IT Fundamentals**
+- 🌱 Currently learning **Python & Machine Learning**
 - 📧 Reach me at: **mahirfaysaltushar@gmail.com**
-- 🎁 Interested in **Machine Learning** and **Cybersecurity**
+- 🎁 Interested in **Machine Learning**, **Data Science** and **Cybersecurity**
 
 ---
 
