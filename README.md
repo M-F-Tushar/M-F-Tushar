@@ -45,7 +45,7 @@
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50" />
-  <img src="https://img.icons8.com/ios/48/000000/latex.png" alt="LaTeX" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/latex.png" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50" />
 </p>
