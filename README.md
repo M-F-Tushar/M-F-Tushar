@@ -22,16 +22,16 @@
 
 <p align="center" >
   <a href="https://www.linkedin.com/in/mahir-faysal-tusher" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="mailto:mahirfaysaltushar@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="50" height="50" />
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/new-post.png" alt="Gmail" width="50" height="50" />
   </a>
   <a href="https://github.com/m-f-tushar" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="50" height="50" />
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="50" height="50" />
   </a>
   <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" alt="Stack Overflow" width="50" height="50" />
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="50" height="50" />
   </a>
 </p>
 
@@ -40,14 +40,14 @@
 ## 🧰 Technologies & Tools
 
 <p align="center" >
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" alt="C" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" alt="C++" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/latex.svg" alt="LaTeX" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50" />
+  <img src="https://img.icons8.com/ios/48/000000/latex.png" alt="LaTeX" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50" />
 </p>
 
 ---
