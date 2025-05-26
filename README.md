@@ -50,11 +50,12 @@
 
 ### 🛠 Tools & Technologies
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/tex-shop.png" alt="LaTeX" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" alt="Jupyter Notebook" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50" />
 </p>
+
 
 
 ---
