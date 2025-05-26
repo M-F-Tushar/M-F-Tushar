@@ -35,7 +35,7 @@
 ### 💻 Languages
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50" />
