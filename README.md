@@ -54,6 +54,8 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Anaconda_Logo.png" alt="Conda" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="50" height="50" />
 </p>
 
 ---
