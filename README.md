@@ -46,8 +46,8 @@
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50" />
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="50" height="50" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50" height="50" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.png" alt="Seaborn" width="70" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="50" />
 </p>
 
