@@ -56,7 +56,7 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 
 ### 📚 Frameworks & Libraries
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50" />
+  <!-- <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50" /> -->
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50" height="50" />
