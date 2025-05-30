@@ -23,23 +23,23 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 - 🤝 **Collaboration & Community**: I enjoy contributing to open-source projects, learning from others, and sharing knowledge with the community.  
 
 ---
-
-📬 **Let’s Connect**:  
-- 📧 Email: **mahirfaysaltushar@gmail.com**  
-- 🔗 LinkedIn: [mahir-faysal-tusher](https://www.linkedin.com/in/mahir-faysal-tusher/)
-
----
-
 ## 💬 Connect with Me
 
-<p align="center" >
+<p align="center">
   <a href="https://www.linkedin.com/in/mahir-faysal-tusher" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="50" height="50" />
   </a>
+  <a href="https://www.facebook.com/mahir.faysal.tushar.2025/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="50" height="50" />
+  </a>
+  <a href="mailto:mahirfaysaltushar@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="50" height="50" />
+  </a>
 </p>
+
 
 ---
 
