@@ -77,15 +77,20 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 ---
 
 ## 📊 GitHub Stats
+
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-f-tushar&layout=compact&theme=radical&border_radius=15" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-f-tushar&layout=compact&theme=radical&border_radius=15&hide_progress=true" alt="Top languages used by Mahir Faysal Tushar" />
 </p>
+
+### Overall GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-f-tushar&show_icons=true&theme=radical&border_radius=15" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-f-tushar&show_icons=true&theme=radical&border_radius=15&count_private=true" alt="GitHub stats for Mahir Faysal Tushar" />
 </p>
+
+### GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-f-tushar&theme=radical&border_radius=15" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-f-tushar&theme=radical&border_radius=15" alt="GitHub contribution streak for Mahir Faysal Tushar" />
 </p>
 
 ---
