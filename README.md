@@ -80,7 +80,8 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-f-tushar&layout=compact&theme=radical&border_radius=15&hide_progress=true" alt="Top languages used by Mahir Faysal Tushar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-f-tushar&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-f-tushar&theme=radical" />
 </p>
 
 ### Overall GitHub Stats
