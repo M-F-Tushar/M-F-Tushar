@@ -7,7 +7,10 @@
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m-f-tushar&label=Profile%20views&color=ff69b4&style=for-the-badge&rounded=true" alt="Profile Views" />
+  ![visitors](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 </p>
+
 
 ## 🔥 About Me
 
