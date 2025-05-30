@@ -1,7 +1,7 @@
 ![Header](./github-header-image%20(2).png)
 
 <p align="center">
-  <em>💡 Aspiring Programmer | 💻 Tech Enthusiast | 🚀 Lifelong Learner</em>
+  <em> Aspiring Software Developer 👨‍💻 | Machine Learning Enthusiast 🤖 | Lifelong Learner 📚 </em>
 </p>
 
 ---
