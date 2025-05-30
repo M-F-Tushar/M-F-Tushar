@@ -47,7 +47,7 @@
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50" height="50" />
-  <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="70" height="50" />
+  <img src="https://user-images.githubusercontent.com/315810/92254506-fe7bef80-ee9e-11ea-8701-9d63ff858e0a.png" alt="Seaborn" width="70" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="50" />
 </p>
 
