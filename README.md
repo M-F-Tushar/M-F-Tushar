@@ -62,7 +62,7 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50" height="50" />
   <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="70" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SymPy_logo.svg/512px-SymPy_logo.svg.png" alt="SymPy" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" alt="SymPy" width="50" height="50" />
 </p>
 
 ### 🛠 Tools & Technologies
