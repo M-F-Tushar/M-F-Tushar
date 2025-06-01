@@ -117,7 +117,11 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 31 May 2025 - To: 31 May 2025
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
