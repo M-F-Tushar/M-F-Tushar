@@ -1,23 +1,38 @@
-
 name: Waka Readme
 
 on:
-  schedule:
-    - cron: '0 * * * *' # every hour
   workflow_dispatch:
-  
+  schedule:
+    - cron: "0 */6 * * *"
+
 permissions:
   contents: write
-  
+
 jobs:
   update-readme:
-    name: Update WakaTime stats
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-
     steps:
       - uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-
+          REPOSITORY: M-F-Tushar/M-F-Tushar
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: rust
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          COMMIT_MESSAGE: "📊 Update WakaTime stats"
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: M-F-Tushar
+          AUTHOR_EMAIL: www.mahirfaysaltushar@gmail.com
