@@ -5,7 +5,10 @@ on:
   schedule:
     - cron: '0 * * * *' # every hour
   workflow_dispatch:
-
+  
+permissions:
+  contents: write
+  
 jobs:
   update-readme:
     name: Update WakaTime stats
