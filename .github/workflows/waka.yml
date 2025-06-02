@@ -17,26 +17,16 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          REPOSITORY: M-F-Tushar/M-F-Tushar
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
+
+          # ✅ Supported flags
           SHOW_TIMEZONE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
+          SHOW_TOTAL_CODE_TIME: true
           SHOW_LINES_OF_CODE: true
           SHOW_COMMIT: true
           SHOW_DAYS_OF_WEEK: true
           SHOW_OS: true
           SHOW_EDITORS: true
           SHOW_LANGUAGE_PER_REPO: true
-          IGNORED_LANGUAGES: YAML JSON TOML
           COMMIT_MESSAGE: "📊 Update WakaTime stats"
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: M-F-Tushar
-          AUTHOR_EMAIL: mahirfaysaltushar@gmail.com
+          COMMIT_USERNAME: GitHubActionBot
+          COMMIT_EMAIL: action-bot@github.com
