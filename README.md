@@ -59,10 +59,11 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
   <!-- <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50" /> -->
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50" />
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" alt="Matplotlib" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
   <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="70" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" alt="SymPy" width="50" height="50" />
+          
 </p>
 
 ### 🛠 Tools & Technologies
