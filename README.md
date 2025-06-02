@@ -118,7 +118,7 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 May 2025 - To: 01 June 2025
+From: 25 May 2025 - To: 01 June 2025
 
 Total Time: 8 hrs 49 mins
 
