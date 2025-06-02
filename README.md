@@ -10,7 +10,7 @@
 </p>
 
 ## 🔥 About Me
-
+https://wakatime.com/badge/user/0eed1828-dd6d-4aab-9460-a40abcf1d786.svg
 Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong passion for coding, continuous learning, and solving real-world problems through technology.
 
 - 🎯 **Driven Developer**: I thrive on tackling complex challenges and building efficient, innovative solutions through code.  
