@@ -117,7 +117,7 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 
 ## 📅 Monthly WakaTime Stats
 <p align="center">
-  <img src="https://wakatime.com/share/@Tusher/4b72bdb6-0ab2-4cad-a41d-683adddf117c.svg" width="600" style="max-height: 300px;" />
+  <img src="https://wakatime.com/share/@Tusher/4b72bdb6-0ab2-4cad-a41d-683adddf117c.svg" style="max-height: 300px;" />
 </p>
 
 ## 📊 WakaTime Stats
