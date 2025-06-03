@@ -115,6 +115,10 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-f-tushar&theme=github-dark&border_radius=15" alt="GitHub Activity Graph" />
 </p>
 
+### 📊 Weekly WakaTime Stats
+
+![WakaTime](https://wakatime.com/share/@Tusher/4b72bdb6-0ab2-4cad-a41d-683adddf117c.svg)
+
 
 ## 📊 WakaTime Stats
 <p align="center">
