@@ -62,7 +62,7 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="70" height="50" />
+  <img src="readme/seabon.svg" alt="Seaborn" width="50" height="50" /> alt="Seaborn" width="70" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="50" height="50"/>    
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" alt="SymPy" width="50" height="50" />
           
