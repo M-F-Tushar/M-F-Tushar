@@ -128,17 +128,17 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 June 2025 - To: 13 June 2025
+From: 13 June 2024 - To: 13 June 2025
 
-Total Time: 20 hrs 52 mins
+Total Time: 46 hrs 13 mins
 
-Python     16 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>-----   79.64 %
-C++        3 hrs 20 mins   >>>>---------------------   16.01 %
-Java       43 mins         >------------------------   03.50 %
-Text       7 mins          -------------------------   00.63 %
-CSV        1 min           -------------------------   00.13 %
-Roff       0 secs          -------------------------   00.06 %
-Other      0 secs          -------------------------   00.02 %
+Python     36 hrs 9 mins   ░░░░░░░░░░░░░░░░░░░▒█████   78.22 %
+C++        8 hrs 20 mins   ░░░░▒████████████████████   18.06 %
+Java       1 hr 31 mins    ▒████████████████████████   03.29 %
+Text       8 mins          █████████████████████████   00.29 %
+CSV        2 mins          █████████████████████████   00.11 %
+Roff       0 secs          █████████████████████████   00.03 %
+Other      0 secs          █████████████████████████   00.01 %
 ```
 
 <!--END_SECTION:waka-->
