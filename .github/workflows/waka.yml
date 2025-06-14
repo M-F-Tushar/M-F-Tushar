@@ -19,7 +19,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: "🟩🟨🟧🟥⬜"
+          BLOCKS: "🌈🟥🟧🟨🟩🟦🟪"
           CODE_LANG: rust
           TIME_RANGE: last_year
           LANG_COUNT: 10
