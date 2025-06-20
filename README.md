@@ -139,7 +139,7 @@ Other      19 hrs 34 mins  ⬜⬜⬜⬜⬜🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 <!--END_SECTION:waka-->
 
 ---
-
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tusher)](https://github.com/anuraghazra/github-readme-stats)
 ## 🎓 Education
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |-----------|---------------------------------|--------------|
