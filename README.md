@@ -121,24 +121,6 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 </p>
 
 ## 📊 WakaTime Stats
-<p align="center">
-  <img src="https://wakatime.com/badge/user/0eed1828-dd6d-4aab-9460-a40abcf1d786.svg" alt="WakaTime Badge" />
-</p>
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 19 June 2024 - To: 19 June 2025
-
-Total Time: 78 hrs 31 mins
-
-Python     62 hrs 4 mins   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟥🟩🟩🟩🟩🟩🟩🟩🟩🟩   63.28 %
-Other      19 hrs 34 mins  ⬜⬜⬜⬜⬜🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   19.95 %
-```
-
-<!--END_SECTION:waka-->
-
----
 [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tusher)](https://github.com/anuraghazra/github-readme-stats)
 ## 🎓 Education
 | 🎓 Degree | 🏫 Institution | 📅 Year |
