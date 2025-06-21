@@ -125,8 +125,11 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 
 ## 📊 WakaTime Stats
 <p align="center">
-  [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tusher)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusher" alt="My WakaTime stats" />
+  </a>
 </p>
+
 ## 🎓 Education
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |-----------|---------------------------------|--------------|
