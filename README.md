@@ -33,7 +33,7 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="50" height="50" />
   </a>
   <a href="https://www.facebook.com/mahir.faysal.tushar.2025/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" />
   </a>
   <a href="mailto:mahirfaysaltushar@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="50" height="50" />
