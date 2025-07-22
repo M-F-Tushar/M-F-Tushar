@@ -27,10 +27,10 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahir-faysal-tusher" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="50" height="50" />
   </a>
   <a href="https://www.facebook.com/mahir.faysal.tushar.2025/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" />
@@ -73,6 +73,7 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Conda" width="50" height="50" />
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="50" height="50" />
