@@ -1,26 +1,50 @@
-![Header](./github-header-image%20(2).png)
 
 <p align="center">
-  <em> Aspiring Software Developer 👨‍💻 | Machine Learning Enthusiast 🤖 | Lifelong Learner 📚 </em>
+  <img src="./github-header-image%20(2).png" alt="Header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Empowering+the+World+with+AI+and+ML;Building+Autonomous+AI+Agents+for+Tomorrow;Harnessing+the+Potential+of+Large+Language+Models;Innovating+at+the+Intersection+of+Data+and+Intelligence;Unlocking+the+Power+of+Machine+Learning+for+Smarter+Solutions" alt="Animated AI/ML Welcome Text" />
+</p>
+
+
+<p align="center">
+  <em>AI & ML Enthusiast | Aspiring AI Agent Developer | LLM Explorer | Lifelong Learner</em>
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-f-tushar&label=Profile%20views&color=ff69b4&style=for-the-badge&rounded=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=m-f-tushar&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/m-f-tushar?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" />
+
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FCC624?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LLM-Large%20Language%20Model-4B0082?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/PyTorch-ML-E34A6F?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-36BCF7?style=flat-square&logo=ai&logoColor=white" alt="AI & ML Enthusiast" />
+  <img src="https://img.shields.io/badge/Google%20Colab-Notebooks-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
+
 
 ## 🔥 About Me
 
-Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong passion for coding, continuous learning, and solving real-world problems through technology.
+Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to advancing the field of Artificial Intelligence and Machine Learning. My primary interests lie in building intelligent systems, developing AI agents, and exploring the capabilities of large language models (LLMs) to solve real-world problems.
 
-- 🎯 **Driven Developer**: I thrive on tackling complex challenges and building efficient, innovative solutions through code.  
-- 🌱 **Lifelong Learner**: Currently focused on mastering **Python** and delving into the fascinating world of **Machine Learning**. Always exploring new tools, libraries, and best practices to grow as a developer.  
-- 🎁 **Areas of Interest**:
-  - **Machine Learning** – From predictive models to neural networks, I love exploring how machines can learn and make decisions.
-  - **Data Science** – I'm curious about turning raw data into actionable insights and impactful visualizations.
-  - **Cybersecurity** – Protecting data and infrastructure is just as important as creating them, and this field fascinates me.  
-- 💡 **Tech Philosophy**: I believe that technology should empower people, create opportunities, and solve meaningful problems.  
-- 🤝 **Collaboration & Community**: I enjoy contributing to open-source projects, learning from others, and sharing knowledge with the community.  
+- 🎯 **AI & ML Developer**: I thrive on designing, developing, and deploying machine learning models and AI-driven solutions that create real impact.
+- 🤖 **AI Agent & LLM Explorer**: Fascinated by autonomous AI agents and the transformative power of LLMs, I am committed to learning and contributing to the next generation of intelligent applications.
+- � **Continuous Learner**: Always expanding my expertise in Python, ML frameworks, and the latest advancements in AI research and engineering.
+- 💡 **Tech Philosophy**: I believe in responsible AI that empowers people, drives innovation, and addresses meaningful challenges.
+- 🤝 **Community & Collaboration**: Active in open-source, knowledge sharing, and collaborative projects to push the boundaries of what AI can achieve.
+
+---
+## 🚀 Professional Interests
+
+- **Machine Learning & Deep Learning**: Predictive modeling, neural networks, and real-world ML applications.
+- **AI Agents**: Building autonomous systems capable of reasoning, planning, and decision-making.
+- **Large Language Models (LLMs)**: Exploring, fine-tuning, and applying LLMs for natural language understanding and generation.
+- **Data Science**: Transforming data into actionable insights and impactful solutions.
 
 ---
 ## 💬 Connect with Me
@@ -46,38 +70,54 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
 ## 🧰 Technologies & Tools
 
 ### 💻 Languages
-<p align="center">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" /><br/>C</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /><br/>C++</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /><br/>Python</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /><br/>Java</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" /><br/>HTML5</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" /><br/>CSS3</td>
+    </tr>
+  </table>
+</div>
 
 ### 📚 Frameworks & Libraries
-<p align="center">
-  <!-- <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="50" height="50"/>    
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" alt="SymPy" width="50" height="50" />
-          
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" /><br/>NumPy</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" /><br/>Pandas</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" /><br/>Matplotlib</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="50" height="50" /><br/>Seaborn</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" /><br/>Scikit-learn</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" width="50" height="50" /><br/>SymPy</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" /><br/>TensorFlow</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" /><br/>PyTorch</td>
+  <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" /><br/>HuggingFace</td>
+    </tr>
+  </table>
+</div>
 
 ### 🛠 Tools & Technologies
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Conda" width="50" height="50" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="50" height="50" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="50" height="50" /><br/>LaTeX</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" /><br/>Git</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" /><br/>VS Code</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50" /><br/>PyCharm</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" /><br/>Jupyter</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" height="50" /><br/>Anaconda</td>
+      <td align="center"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" /><br/>Colab</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="50" height="50" /><br/>AI</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/robot-2.png" width="50" height="50" /><br/>AI Agent</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/brain.png" width="50" height="50" /><br/>ML</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/chatgpt.png" width="50" height="50" /><br/>LLM</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -116,30 +156,94 @@ Hi there! I’m **Mahir Faysal Tushar** — a tech enthusiast with a strong pass
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-f-tushar&theme=github-dark&border_radius=15" alt="GitHub Activity Graph" />
 </p>
 
-## 📅 Monthly WakaTime Stats
+##  WakaTime Stats
+
 <p align="center">
   <img src="https://wakatime.com/badge/user/0eed1828-dd6d-4aab-9460-a40abcf1d786.svg" alt="WakaTime Badge" />
 </p>
+
 <p align="center">
-  <img src="https://wakatime.com/share/@Tusher/4b72bdb6-0ab2-4cad-a41d-683adddf117c.svg" style="max-height: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusher&layout=compact&theme=radical&border_radius=15&hide_title=true" alt="WakaTime Stats" />
 </p>
 
-## 📊 WakaTime Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusher" alt="My WakaTime stats" />
-  </a>
+  <img src="https://wakatime.com/share/@Tusher/4b72bdb6-0ab2-4cad-a41d-683adddf117c.svg" style="max-height: 300px;" alt="WakaTime Monthly Stats" />
 </p>
+
+<p align="center">
+  <em>Tracking my coding activity and productivity with WakaTime!</em>
+</p>
+
 
 ## 🎓 Education
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|-----------|---------------------------------|--------------|
-| Bachelor's in Computer Science | Chandpur Science and Technology University (CSTU) | In progress |
-| Higher Secondary | Chandpur Govt College | 2022 |
-| Secondary | Hasan Ali Govt High School, Chandpur | 2020 |
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" alt="Education" width="48" height="48" />
+</p>
+
+<p align="center">
+  <em>Dedicated to continuous learning and academic excellence in computer science and technology.</em>
+</p>
+
+<table align="center">
+  <tr>
+    <th>🎓 Degree</th>
+    <th>🏫 Institution</th>
+    <th>📍 Location</th>
+    <th>📅 Year</th>
+  </tr>
+  <tr>
+    <td><b>Bachelor's in Computer Science</b></td>
+    <td>Chandpur Science and Technology University (CSTU)</td>
+    <td>Chandpur, Bangladesh</td>
+    <td><i>In progress</i></td>
+  </tr>
+  <tr>
+    <td><b>Higher Secondary Certificate</b></td>
+    <td>Chandpur Govt College</td>
+    <td>Chandpur, Bangladesh</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td><b>Secondary School Certificate</b></td>
+    <td>Hasan Ali Govt High School</td>
+    <td>Chandpur, Bangladesh</td>
+    <td>2020</td>
+  </tr>
+</table>
 
 ---
 
+
+---
+
+## 🚀 Featured Projects
+
 <p align="center">
-  ⭐ **If you like my profile, consider giving a star!** ⭐
+  <em>Some of my favorite projects in AI, Machine Learning, and LLMs.</em>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td><b>My Todo App</b></td>
+    <td>A versatile, multi-interface To-Do application with command-line, desktop GUI, and web (Streamlit) interfaces for task management.</td>
+    <td>Python, PySimpleGUI, Streamlit</td>
+    <td><a href="https://github.com/M-F-Tushar/My-Todo-App">GitHub</a></td>
+  </tr>
+  <tr>
+    <td><b>Heart Disease Classification</b></td>
+    <td>Jupyter notebook project for classifying heart disease using data preprocessing, feature engineering, and multiple ML models.</td>
+    <td>Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</td>
+    <td><a href="https://github.com/M-F-Tushar/Heart-Disease-Classification">GitHub</a></td>
+  </tr>
+</table>
+
+<p align="center">
+  ⭐ <b>If you like my profile, consider giving a star!</b> ⭐
 </p>
