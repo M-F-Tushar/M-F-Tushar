@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Empowering+the+World+with+AI+and+ML;Building+Autonomous+AI+Agents+for+Tomorrow;Harnessing+the+Potential+of+Large+Language+Models;Innovating+at+the+Intersection+of+Data+and+Intelligence;Unlocking+the+Power+of+Machine+Learning+for+Smarter+Solutions" alt="Animated AI/ML Welcome Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Empowering+the+World+with+AI+%26+ML;Building+Autonomous+AI+Agents;Harnessing+Large+Language+Models;Innovating+with+Data+and+Intelligence;Smarter+Solutions+with+Machine+Learning" alt="Animated AI/ML Welcome Text" />
 </p>
 
 
