@@ -242,6 +242,12 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
     <td>Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</td>
     <td><a href="https://github.com/M-F-Tushar/Heart-Disease-Classification">GitHub</a></td>
   </tr>
+  <tr>
+    <td><b>Heart Disease Prediction Web App</b></td>
+    <td>A web application that predicts the likelihood of heart disease using machine learning models, featuring an interactive user interface for input and instant results.</td>
+    <td>Python, Streamlit, Scikit-learn, Pandas, NumPy</td>
+    <td><a href="https://github.com/M-F-Tushar/Heart-Disease-Prediction-Web-App">GitHub</a></td>
+  </tr>
 </table>
 
 <p align="center">
