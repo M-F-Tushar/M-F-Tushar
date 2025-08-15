@@ -220,7 +220,7 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 ## 🚀 Featured Projects
 
 <p align="center">
-  <em>Some of my favorite projects in AI, Machine Learning, and LLMs.</em>
+  <em>Some of my favorite projects in Python, AI, Machine Learning, and LLMs.</em>
 </p>
 
 <table align="center">
