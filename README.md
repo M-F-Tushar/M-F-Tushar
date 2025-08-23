@@ -113,9 +113,9 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" /><br/>Jupyter</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" height="50" /><br/>Anaconda</td>
       <td align="center"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" /><br/>Colab</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" /><br/>Notion</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="50" height="50" /><br/>AI</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/robot-2.png" width="50" height="50" /><br/>AI Agent</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/brain.png" width="50" height="50" /><br/>ML</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/chatgpt.png" width="50" height="50" /><br/>LLM</td>
     </tr>
   </table>
