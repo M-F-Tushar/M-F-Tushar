@@ -149,6 +149,7 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy-m-f-tushar-m-f-tushars-projects.vercel.app/?username=m-f-tushar&theme=onedark&margin-w=20&border_radius=15" alt="GitHub Trophy" />
+
 </p>
 
 
