@@ -141,7 +141,7 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 
 ### GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=m-f-tushar&theme=radical&border_radius=15" alt="GitHub contribution streak for Mahir Faysal Tushar" />
+  <img src="https://github-readme-streak-stats-pi-sepia.vercel.app?user=m-f-tushar&theme=radical&border_radius=15" alt="GitHub contribution streak for Mahir Faysal Tushar" />
 </p>
 
 ---
