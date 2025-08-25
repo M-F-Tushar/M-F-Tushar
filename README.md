@@ -147,18 +147,24 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 ---
 
 ## 🏆 GitHub Achievements
-<p align="center">
+<div align="center" style="background: linear-gradient(135deg, #1e1e2f, #2e2b4f); padding: 30px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); max-width: 700px; margin: auto; transition: transform 0.3s;">
   <a href="https://github.com/m-f-tushar" target="_blank">
     <img 
       src="https://trophygh.kolioaris.xyz/?username=m-f-tushar&theme=onedark&margin-w=20&no-frame=true" 
       alt="GitHub Trophy" 
-      style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); max-width: 90%;"/>
+      style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); max-width: 100%; transition: transform 0.3s;">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <em>My GitHub Trophies – showcasing achievements with style!</em>
-</p>
+<style>
+  div:hover {
+    transform: translateY(-5px) scale(1.02);
+  }
+  div img:hover {
+    transform: scale(1.05);
+  }
+</style>
+
 
 ---
 
