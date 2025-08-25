@@ -141,14 +141,14 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 
 ### GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-f-tushar&theme=radical&border_radius=15" alt="GitHub contribution streak for Mahir Faysal Tushar" />
+  <img src="https://streak-stats.demolab.com?user=m-f-tushar&theme=radical&border_radius=15" alt="GitHub contribution streak for Mahir Faysal Tushar" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-f-tushar&theme=onedark&margin-w=20&border_radius=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=m-f-tushar&theme=onedark&margin-w=20&no-frame=true" alt="GitHub Trophy" />
 </p>
 
 ---
