@@ -173,7 +173,7 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 </p>
 
 <p align="center">
-  <em>Tracking my coding activity and productivity with WakaTime!</em>
+  <em>Tracking my productivity and coding activity with WakaTime!</em>
 </p>
 
 
