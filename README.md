@@ -122,27 +122,51 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 </div>
 
 ---
+## 📊 GitHub Statistics
 
-## 📊 GitHub Stats
-
-### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-murex-beta-18.vercel.app/api/top-langs/?username=m-f-tushar&layout=compact&langs_count=20&hide_progress=false&theme=radical&border_radius=15&cache_seconds=1" alt="Most Used Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-f-tushar&langs_count=10&hide_progress=false&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-f-tushar&langs_count=10&hide_progress=false&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Performance%20Analytics&fontSize=30&fontAlignY=35&animation=twinkling" alt="Stats Header"/>
 </p>
 
-### Overall GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-f-tushar&show_icons=true&theme=radical&border_radius=15&count_private=true" alt="GitHub stats for Mahir Faysal Tushar" />
-</p>
+<div align="center">
 
-### GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats-pi-sepia.vercel.app?user=m-f-tushar&theme=radical&border_radius=15" alt="GitHub contribution streak for Mahir Faysal Tushar" />
-</p>
+### 📈 Overall Performance
+
+<a href="https://github.com/m-f-tushar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-f-tushar&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=GitHub%20Performance%20Metrics" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-f-tushar&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=15" alt="Top Languages"/>
+</a>
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats-pi-sepia.vercel.app?user=m-f-tushar&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
+
+### 📊 Detailed Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-f-tushar&theme=radical" alt="Profile Details" />
+
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-f-tushar&theme=radical" alt="Repos per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-f-tushar&theme=radical" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-f-tushar&theme=radical" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-f-tushar&theme=radical" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
