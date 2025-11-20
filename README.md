@@ -134,7 +134,7 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 
 <a href="https://github.com/m-f-tushar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-f-tushar&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=GitHub%20Performance%20Metrics" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-f-tushar&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=15" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-f-tushar&layout=compact&langs_count=20&theme=radical&hide_border=true&border_radius=15" alt="Top Languages"/>
 </a>
 
 ### 🔥 Contribution Streak
