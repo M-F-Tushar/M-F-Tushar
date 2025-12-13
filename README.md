@@ -187,11 +187,11 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 <p align="center">
   <img src="https://wakatime.com/badge/user/0eed1828-dd6d-4aab-9460-a40abcf1d786.svg" alt="WakaTime Badge" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusher&layout=compact&theme=radical&border_radius=15&hide_title=true" alt="WakaTime Stats" />
 </p>
-
+-->
 <p align="center">
   <img src="https://wakatime.com/share/@Tusher/4b72bdb6-0ab2-4cad-a41d-683adddf117c.svg" style="max-height: 300px;" alt="WakaTime Monthly Stats" />
 </p>
