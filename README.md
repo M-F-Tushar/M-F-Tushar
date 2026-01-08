@@ -274,6 +274,12 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
     <td>Python, Streamlit, Scikit-learn, Pandas, NumPy</td>
     <td><a href="https://github.com/M-F-Tushar/Heart-Disease-Prediction-Web-App">GitHub</a></td>
   </tr>
+  <tr>
+  <td><b>Multi-Backend AI Chatbot</b></td>
+  <td>A powerful universal chatbot with an enhanced Gradio interface connecting to 5 AI providers (Ollama, OpenRouter, GitHub Models, Groq, Gemini) supporting 100+ free models. Features streaming responses, model validation tool, temperature controls, preset prompts, and Markdown export.</td>
+  <td>Python, Gradio, OpenAI API, Google Generative AI, Jupyter Notebook</td>
+  <td><a href="https://github.com/M-F-Tushar/Multi-Backend-Chatbot-with-Gradio">GitHub</a></td>
+</tr>
 </table>
 
 <p align="center">
