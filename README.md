@@ -182,8 +182,9 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-f-tushar&theme=github-dark&border_radius=15" alt="GitHub Activity Graph" />
 </p>
 
-##  WakaTime Stats
 <!--
+##  WakaTime Stats
+
 <p align="center">
   <img src="https://wakatime.com/badge/user/0eed1828-dd6d-4aab-9460-a40abcf1d786.svg" alt="WakaTime Badge" />
 </p>
