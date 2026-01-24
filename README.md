@@ -183,11 +183,11 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
 </p>
 
 ##  WakaTime Stats
-
+<!--
 <p align="center">
   <img src="https://wakatime.com/badge/user/0eed1828-dd6d-4aab-9460-a40abcf1d786.svg" alt="WakaTime Badge" />
 </p>
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusher&layout=compact&theme=radical&border_radius=15&hide_title=true" alt="WakaTime Stats" />
 </p>
