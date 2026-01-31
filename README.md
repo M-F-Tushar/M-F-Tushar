@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/github/followers/m-f-tushar?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" />
 
   <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FCC624?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LLM-Large%20Language%20Model-4B0082?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/LLM-Large%20Language%20Model-4B0082?style=flat-square&logo=openai&logoColor=white" alt="LLM" /><!--
   <img src="https://img.shields.io/badge/PyTorch-ML-E34A6F?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> -->
   <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-36BCF7?style=flat-square&logo=ai&logoColor=white" alt="AI & ML Enthusiast" />
   <img src="https://img.shields.io/badge/Google%20Colab-Notebooks-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
