@@ -94,9 +94,9 @@ Hi! I’m **Mahir Faysal Tushar** — a passionate technologist dedicated to adv
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" /><br/>Matplotlib</td>
       <td align="center"><img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="50" height="50" /><br/>Seaborn</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" /><br/>Scikit-learn</td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" width="50" height="50" /><br/>SymPy</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sympy_logo.svg" width="50" height="50" /><br/>SymPy</td> <!--
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" /><br/>TensorFlow</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" /><br/>PyTorch</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" /><br/>PyTorch</td> -->
   <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" /><br/>HuggingFace</td>
     </tr>
   </table>
