@@ -1,0 +1,8 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Wispr Flow</title>
+  <desc id="desc">A dark rounded icon with flowing voice waveform lines.</desc>
+  <rect width="96" height="96" rx="22" fill="#121826"/>
+  <path d="M18 51C28 31 38 31 48 51C58 71 68 71 78 51" stroke="#36BCF7" stroke-width="7" stroke-linecap="round"/>
+  <path d="M18 39C29 59 39 59 48 39C57 19 67 19 78 39" stroke="#22C55E" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+  <circle cx="48" cy="48" r="8" fill="#F4F7FA"/>
+</svg>

@@ -1,0 +1,89 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mahir Faysal Tusher learning-driven AI engineering banner</title>
+  <desc id="desc">A dark GitHub profile banner showing a learning flywheel, repository cards, and AI engineering focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06111F"/>
+      <stop offset="0.45" stop-color="#0B2447"/>
+      <stop offset="1" stop-color="#190E34"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="54" x2="1090" y2="322" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#36BCF7"/>
+      <stop offset="0.48" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#102A4A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <path d="M0 287C118 235 233 239 353 282C500 335 651 334 802 268C950 204 1079 212 1200 251V360H0V287Z" fill="#36BCF7" opacity="0.08"/>
+  <path d="M0 246C118 199 228 203 354 244C501 292 646 295 798 232C944 172 1072 182 1200 221" stroke="url(#accent)" stroke-width="2" opacity="0.4"/>
+
+  <g opacity="0.16" stroke="#DCEBFF">
+    <path d="M69 61H190M69 91H140M69 121H222M69 151H171"/>
+    <path d="M984 66H1125M984 96H1066M984 126H1137M984 156H1092"/>
+    <rect x="43" y="36" width="220" height="144" rx="18"/>
+    <rect x="953" y="41" width="208" height="144" rx="18"/>
+  </g>
+
+  <g transform="translate(528 42) scale(0.76)" filter="url(#glow)">
+    <circle cx="95" cy="95" r="82" fill="#081827" stroke="url(#accent)" stroke-width="3"/>
+    <circle cx="95" cy="95" r="48" fill="#0D1117" stroke="#36BCF7" stroke-opacity="0.55"/>
+    <path d="M95 23C133 23 164 52 167 89" stroke="#36BCF7" stroke-width="5" stroke-linecap="round"/>
+    <path d="M164 107C158 143 129 167 95 167" stroke="#22C55E" stroke-width="5" stroke-linecap="round"/>
+    <path d="M77 164C44 156 22 128 22 95" stroke="#8B5CF6" stroke-width="5" stroke-linecap="round"/>
+    <path d="M29 68C40 42 65 23 95 23" stroke="#F59E0B" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="95" cy="23" r="7" fill="#36BCF7"/>
+    <circle cx="167" cy="95" r="7" fill="#22C55E"/>
+    <circle cx="95" cy="167" r="7" fill="#8B5CF6"/>
+    <circle cx="23" cy="95" r="7" fill="#F59E0B"/>
+    <text x="95" y="89" text-anchor="middle" fill="#EAF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">LEARN</text>
+    <text x="95" y="113" text-anchor="middle" fill="#9DDCFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">BUILD</text>
+  </g>
+
+  <g transform="translate(312 70)">
+    <rect width="142" height="46" rx="13" fill="url(#card)" stroke="#36BCF7" stroke-opacity="0.45"/>
+    <text x="71" y="19" text-anchor="middle" fill="#9DDCFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">MAIN TRACK</text>
+    <text x="71" y="36" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">AI Engineering</text>
+  </g>
+  <g transform="translate(746 70)">
+    <rect width="156" height="46" rx="13" fill="url(#card)" stroke="#8B5CF6" stroke-opacity="0.45"/>
+    <text x="78" y="19" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">RESEARCH SPINE</text>
+    <text x="78" y="36" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Machine Learning</text>
+  </g>
+  <g transform="translate(330 223)">
+    <rect width="170" height="46" rx="13" fill="url(#card)" stroke="#22C55E" stroke-opacity="0.45"/>
+    <text x="85" y="19" text-anchor="middle" fill="#86EFAC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">APPLIED LAB</text>
+    <text x="85" y="36" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">LLMs + Agents</text>
+  </g>
+  <g transform="translate(695 223)">
+    <rect width="220" height="46" rx="13" fill="url(#card)" stroke="#F59E0B" stroke-opacity="0.45"/>
+    <text x="110" y="19" text-anchor="middle" fill="#FCD34D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">COMMUNITY TRACK</text>
+    <text x="110" y="36" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Open Source Collaboration</text>
+  </g>
+
+  <path d="M454 93H528" stroke="#36BCF7" stroke-width="2" stroke-dasharray="6 8" opacity="0.7"/>
+  <path d="M673 93H746" stroke="#8B5CF6" stroke-width="2" stroke-dasharray="6 8" opacity="0.7"/>
+  <path d="M500 246H545" stroke="#22C55E" stroke-width="2" stroke-dasharray="6 8" opacity="0.7"/>
+  <path d="M655 246H695" stroke="#F59E0B" stroke-width="2" stroke-dasharray="6 8" opacity="0.7"/>
+
+  <text x="600" y="213" text-anchor="middle" fill="#EAF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="900" letter-spacing="0.5">
+    Mahir Faysal Tusher
+  </text>
+  <text x="600" y="300" text-anchor="middle" fill="#BFD7EF" font-family="Fira Code, Consolas, monospace" font-size="16">
+    student -> ML research learner -> AI engineer in progress
+  </text>
+  <text x="600" y="326" text-anchor="middle" fill="#88D8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">
+    Learn deeply . Build visibly . Document carefully . Improve consistently
+  </text>
+</svg>

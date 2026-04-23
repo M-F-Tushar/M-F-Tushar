@@ -1,0 +1,9 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Codex</title>
+  <desc id="desc">A dark rounded icon with an abstract AI code mark.</desc>
+  <rect width="96" height="96" rx="22" fill="#0D1117"/>
+  <path d="M48 18L70.5 31V57L48 70L25.5 57V31L48 18Z" stroke="#F4F7FA" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M37 39L27.5 48L37 57" stroke="#36BCF7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M59 39L68.5 48L59 57" stroke="#22C55E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 35L44 61" stroke="#A78BFA" stroke-width="5" stroke-linecap="round"/>
+</svg>
