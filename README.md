@@ -206,48 +206,28 @@ flowchart LR
 </p>
 
 ### AI, Data, and Experimentation
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" /><br/>NumPy</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" /><br/>Pandas</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" /><br/>Matplotlib</td>
-      <td align="center"><img src="./seaborn.svg" width="50" height="50" alt="Seaborn" /><br/>Seaborn</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="scikit-learn" /><br/>Scikit-learn</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" /><br/>Jupyter</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="Hugging Face" /><br/>Hugging Face</td>
-      <td align="center"><img src="https://cdn.simpleicons.org/gradio/FF7C00" width="50" height="50" alt="Gradio" /><br/>Gradio</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" alt="Streamlit" /><br/>Streamlit</td>
-      <td align="center"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="50" height="50" alt="Google Colab" /><br/>Colab</td>
-      <td align="center"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="50" height="50" alt="Kaggle" /><br/>Kaggle</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib" />
+  <img src="./seaborn.svg" width="48" height="48" alt="Seaborn" title="Seaborn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" title="Jupyter" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/gradio/FF7C00" width="48" height="48" alt="Gradio" title="Gradio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab" title="Google Colab" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" height="48" alt="Kaggle" title="Kaggle" />
+</p>
 
 ### Developer Tools
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br/>Git</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /><br/>GitHub</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" /><br/>VS Code</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm" /><br/>PyCharm</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" height="50" alt="Anaconda" /><br/>Anaconda</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" alt="Notion" /><br/>Notion</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" /><br/>Figma</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Microsoft Azure" /><br/>Azure</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="./assets/icons/codex.svg" width="50" height="50" alt="Codex" /><br/>Codex</td>
-      <td align="center"><img src="./assets/icons/antigravity.svg" width="50" height="50" alt="Antigravity" /><br/>Antigravity</td>
-      <td align="center"><img src="./assets/icons/wispr-flow.svg" width="50" height="50" alt="Wispr Flow" /><br/>Wispr Flow</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel" /><br/>Vercel</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase" /><br/>Supabase</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,notion,figma,azure&perline=12" alt="Git, GitHub, VS Code, PyCharm, Anaconda, Notion, Figma, Azure" />
+  <img src="./assets/icons/codex.svg" width="48" height="48" alt="Codex" title="Codex" />
+  <img src="./assets/icons/antigravity.svg" width="48" height="48" alt="Antigravity" title="Antigravity" />
+  <img src="./assets/icons/wispr-flow.svg" width="48" height="48" alt="Wispr Flow" title="Wispr Flow" />
+  <img src="https://skillicons.dev/icons?i=vercel,supabase&perline=12" alt="Vercel, Supabase" />
+</p>
 
 ---
 
