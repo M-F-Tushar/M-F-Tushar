@@ -156,32 +156,14 @@ flowchart LR
 
 ## Featured Work
 
-<p align="center">
-  <a href="https://github.com/M-F-Tushar/Multi-Backend-Chatbot-with-Gradio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-F-Tushar&repo=Multi-Backend-Chatbot-with-Gradio&theme=tokyonight&hide_border=true&border_radius=12" alt="Multi Backend Chatbot with Gradio repository card" />
-  </a>
-  <a href="https://github.com/M-F-Tushar/Heart-Disease-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-F-Tushar&repo=Heart-Disease-Classification&theme=tokyonight&hide_border=true&border_radius=12" alt="Heart Disease Classification repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/M-F-Tushar/Heart-Disease-Prediction-Web-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-F-Tushar&repo=Heart-Disease-Prediction-Web-App&theme=tokyonight&hide_border=true&border_radius=12" alt="Heart Disease Prediction Web App repository card" />
-  </a>
-  <a href="https://github.com/M-F-Tushar/My-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-F-Tushar&repo=My-Portfolio&theme=tokyonight&hide_border=true&border_radius=12" alt="My Portfolio repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/M-F-Tushar/Data-Structures-and-Algorithms-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-F-Tushar&repo=Data-Structures-and-Algorithms-Python&theme=tokyonight&hide_border=true&border_radius=12" alt="Data Structures and Algorithms Python repository card" />
-  </a>
-  <a href="https://github.com/M-F-Tushar/CSE-2106-Numerical-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-F-Tushar&repo=CSE-2106-Numerical-Analysis&theme=tokyonight&hide_border=true&border_radius=12" alt="CSE 2106 Numerical Analysis repository card" />
-  </a>
-</p>
+| Project | Focus |
+|---|---|
+| [Multi-Backend Chatbot with Gradio](https://github.com/M-F-Tushar/Multi-Backend-Chatbot-with-Gradio) | Multi-provider conversational AI interface and integration workflow |
+| [Heart Disease Classification](https://github.com/M-F-Tushar/Heart-Disease-Classification) | End-to-end ML classification pipeline with evaluation and analysis |
+| [Heart Disease Prediction Web App](https://github.com/M-F-Tushar/Heart-Disease-Prediction-Web-App) | Model deployment with an interactive web-based prediction interface |
+| [My Portfolio](https://github.com/M-F-Tushar/My-Portfolio) | Personal web presence, front-end implementation, and presentation |
+| [Data Structures and Algorithms Python](https://github.com/M-F-Tushar/Data-Structures-and-Algorithms-Python) | Algorithmic problem solving and structured Python implementations |
+| [CSE-2106 Numerical Analysis](https://github.com/M-F-Tushar/CSE-2106-Numerical-Analysis) | Numerical methods practice and academic computation workflows |
 
 <details>
   <summary><b>More learning lanes and proof repositories</b></summary>
@@ -221,8 +203,8 @@ flowchart LR
 
 ### Core Metrics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=M-F-Tushar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" alt="Mahir's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-F-Tushar&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&border_radius=12" alt="Mahir's top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-F-Tushar&theme=tokyonight" alt="GitHub summary stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-F-Tushar&theme=tokyonight&utcOffset=6" alt="Most productive coding time in Bangladesh timezone" />
 </p>
 
 ### Contribution Rhythm
@@ -238,12 +220,6 @@ flowchart LR
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-F-Tushar&theme=tokyonight" alt="Repositories per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-F-Tushar&theme=tokyonight" alt="Most committed languages" />
-</p>
-
-### Work Pattern
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-F-Tushar&theme=tokyonight" alt="GitHub summary stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-F-Tushar&theme=tokyonight&utcOffset=6" alt="Most productive coding time in Bangladesh timezone" />
 </p>
 
 ### Activity Graph
