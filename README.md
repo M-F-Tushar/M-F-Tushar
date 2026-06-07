@@ -316,14 +316,10 @@ flowchart LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-F-Tushar&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" width="100%" />
 </p>
 
-<!-- GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-F-Tushar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Readme Stats" />
-</p>
 
 <!-- 3D Isometric Contribution Calendar -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-F-Tushar/M-F-Tushar/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="100%" />
 </p>
 
 <!-- Snake Animation -->
