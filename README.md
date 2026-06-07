@@ -6,39 +6,75 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=920&lines=Learning+AI+engineering+by+building+in+public;Researching+machine+learning+through+experiments;Applying+LLMs+and+agents+to+real+workflows;Turning+study+into+repositories%2C+notes%2C+and+software" alt="Animated profile headline" />
 </p>
 
+<!-- ═══════════════════════ BADGES BAR ═══════════════════════ -->
+
 <p align="center">
   <a href="https://github.com/M-F-Tushar">
-    <img src="https://komarev.com/ghpvc/?username=M-F-Tushar&label=Profile%20views&color=36BCF7&style=flat-square&labelColor=0D1117" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=M-F-Tushar&label=Profile%20views&color=36BCF7&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
   </a>
+  &nbsp;
   <a href="https://github.com/M-F-Tushar?tab=followers">
-    <img src="https://img.shields.io/github/followers/M-F-Tushar?label=Followers&style=flat-square&color=36BCF7&labelColor=0D1117" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/M-F-Tushar?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0D1117&logo=github&logoColor=white" alt="GitHub followers" />
   </a>
+  &nbsp;
   <a href="https://github.com/M-F-Tushar?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FM-F-Tushar&style=flat-square&labelColor=0D1117" alt="Public repositories" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FM-F-Tushar&style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Public repositories" />
   </a>
-  <a href="mailto:www.mahirfaysaltushar@gmail.com">
-    <img src="https://img.shields.io/badge/email-www.mahirfaysaltushar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="email www.mahirfaysaltushar@gmail.com" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahir-faysal-tusher">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahir%20Faysal%20Tusher-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn profile" />
+  &nbsp;
+  <a href="https://github.com/M-F-Tushar?tab=repositories">
+    <img src="https://img.shields.io/github/stars/M-F-Tushar?label=Total%20Stars&style=for-the-badge&color=F59E0B&labelColor=0D1117&logo=starship&logoColor=F59E0B" alt="Total stars" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="mailto:www.mahirfaysaltushar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-www.mahirfaysaltushar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email www.mahirfaysaltushar@gmail.com" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mahir-faysal-tusher">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahir%20Faysal%20Tusher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/mahir.faysal.tushar.2025/">
+    <img src="https://img.shields.io/badge/Facebook-Mahir%20Faysal%20Tusher-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook" />
+  </a>
+</p>
 
-## Profile Summary
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="section divider" />
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+<table>
+<tr>
+<td width="55%">
 
 I'm **Mahir Faysal Tusher**, a Computer Science undergraduate at **Chandpur Science and Technology University (CSTU)**, preparing for opportunities in **AI engineering**. My academic and research interest is **machine learning**, and I am actively building projects around **LLM applications, AI agents, Python tooling, and data-driven software**.
 
 My GitHub is a portfolio of my learning and project work: coursework, notebooks, experiments, technical notes, and applications that show how I am developing my foundations step by step.
 
-| <img src="./assets/icons/codex.svg" width="42" height="42" alt="Career track" /><br><b>Career Track</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Academic focus" /><br><b>Academic Focus</b> | <img src="./assets/icons/antigravity.svg" width="42" height="42" alt="Current practice" /><br><b>Current Practice</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="Looking for" /><br><b>Looking For</b> |
+</td>
+<td width="45%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-F-Tushar&theme=tokyonight" alt="Top languages by repo" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════ FOCUS CARDS ═══════════════════════ -->
+
+<div align="center">
+
+| <img src="./assets/icons/codex.svg" width="42" height="42" alt="Career track" /><br><b>🎯 Career Track</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Academic focus" /><br><b>🔬 Academic Focus</b> | <img src="./assets/icons/antigravity.svg" width="42" height="42" alt="Current practice" /><br><b>⚡ Current Practice</b> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="Looking for" /><br><b>🤝 Looking For</b> |
 |:--:|:--:|:--:|:--:|
 | **AI Engineering** | **Machine Learning** | **LLMs + AI Agents** | **Internship + Open Source** |
 | Building useful AI systems with software, data, and model workflows | Studying models, evaluation, data preparation, and experimentation | Connecting language models with tools, memory, automation, and apps | Learning with teams, contributing publicly, and collaborating on projects |
 
+</div>
+
 ```mermaid
-%%{init: {"theme": "base", "flowchart": {"curve": "cardinal"}, "themeVariables": {"background": "#0D1117", "primaryColor": "#102A4A", "primaryTextColor": "#EAF6FF", "primaryBorderColor": "#36BCF7", "lineColor": "#94A3B8", "tertiaryColor": "#161B22"}}}%%
 flowchart LR
     Me(("Mahir Faysal Tusher")):::center
 
@@ -66,14 +102,16 @@ flowchart LR
     linkStyle 4,5,6,7 stroke:#94A3B8,stroke-width:2.5px;
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="section divider" />
 
-## Current Focus
+<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Current Focus
 
 <table>
   <tr>
     <td width="50%">
-      <h3>What I am building toward</h3>
+      <h3>🚀 What I am building toward</h3>
       <ul>
         <li>AI engineering internships and early-career opportunities</li>
         <li>Machine learning projects with stronger evaluation and reproducibility</li>
@@ -82,7 +120,7 @@ flowchart LR
       </ul>
     </td>
     <td width="50%">
-      <h3>What my repositories show</h3>
+      <h3>📂 What my repositories show</h3>
       <ul>
         <li>Jupyter notebooks for ML, data science, and experimentation</li>
         <li>C, C++, and Python fundamentals through DSA and coursework</li>
@@ -94,7 +132,6 @@ flowchart LR
 </table>
 
 ```mermaid
-%%{init: {"theme": "base", "flowchart": {"curve": "cardinal"}, "themeVariables": {"background": "#0D1117", "primaryColor": "#102A4A", "primaryTextColor": "#EAF6FF", "primaryBorderColor": "#36BCF7", "lineColor": "#94A3B8", "tertiaryColor": "#161B22"}}}%%
 flowchart LR
     subgraph Preparation["What I Am Strengthening"]
     direction TB
@@ -152,23 +189,58 @@ flowchart LR
     linkStyle 6,7,8,9 stroke:#F59E0B,stroke-width:2.5px;
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="section divider" />
 
-## Featured Work
+<!-- ═══════════════════════ FEATURED WORK ═══════════════════════ -->
 
-| Project | Focus |
-|---|---|
-| [Multi-Backend Chatbot with Gradio](https://github.com/M-F-Tushar/Multi-Backend-Chatbot-with-Gradio) | Multi-provider conversational AI interface and integration workflow |
-| [Heart Disease Classification](https://github.com/M-F-Tushar/Heart-Disease-Classification) | End-to-end ML classification pipeline with evaluation and analysis |
-| [Heart Disease Prediction Web App](https://github.com/M-F-Tushar/Heart-Disease-Prediction-Web-App) | Model deployment with an interactive web-based prediction interface |
-| [My Portfolio](https://github.com/M-F-Tushar/My-Portfolio) | Personal web presence, front-end implementation, and presentation |
-| [Data Structures and Algorithms Python](https://github.com/M-F-Tushar/Data-Structures-and-Algorithms-Python) | Algorithmic problem solving and structured Python implementations |
-| [CSE-2106 Numerical Analysis](https://github.com/M-F-Tushar/CSE-2106-Numerical-Analysis) | Numerical methods practice and academic computation workflows |
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Work
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+  <h3><a href="https://github.com/M-F-Tushar/Multi-Backend-Chatbot-with-Gradio">🤖 Multi-Backend Chatbot with Gradio</a></h3>
+  <p>Multi-provider conversational AI interface and integration workflow</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" /> <img src="https://img.shields.io/badge/LLM-22C55E?style=flat-square" alt="LLM" />
+</td>
+<td width="50%" align="center">
+  <h3><a href="https://github.com/M-F-Tushar/Heart-Disease-Classification">🫀 Heart Disease Classification</a></h3>
+  <p>End-to-end ML classification pipeline with evaluation and analysis</p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/ML-8B5CF6?style=flat-square" alt="ML" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3><a href="https://github.com/M-F-Tushar/Heart-Disease-Prediction-Web-App">🌐 Heart Disease Prediction Web App</a></h3>
+  <p>Model deployment with an interactive web-based prediction interface</p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Deploy-F59E0B?style=flat-square" alt="Deploy" />
+</td>
+<td width="50%" align="center">
+  <h3><a href="https://github.com/M-F-Tushar/My-Portfolio">💼 My Portfolio</a></h3>
+  <p>Personal web presence, front-end implementation, and presentation</p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Web-60A5FA?style=flat-square" alt="Web" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3><a href="https://github.com/M-F-Tushar/Data-Structures-and-Algorithms-Python">📊 Data Structures and Algorithms Python</a></h3>
+  <p>Algorithmic problem solving and structured Python implementations</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/DSA-A78BFA?style=flat-square" alt="DSA" /> <img src="https://img.shields.io/badge/Algorithms-36BCF7?style=flat-square" alt="Algorithms" />
+</td>
+<td width="50%" align="center">
+  <h3><a href="https://github.com/M-F-Tushar/CSE-2106-Numerical-Analysis">🔢 CSE-2106 Numerical Analysis</a></h3>
+  <p>Numerical methods practice and academic computation workflows</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Numerical-22C55E?style=flat-square" alt="Numerical" /> <img src="https://img.shields.io/badge/Academic-94A3B8?style=flat-square" alt="Academic" />
+</td>
+</tr>
+</table>
+</div>
 
 <details>
-  <summary><b>More learning lanes and proof repositories</b></summary>
+  <summary><b>📚 More learning lanes and proof repositories</b></summary>
+  <br>
 
-| Lane | Repositories | What it shows |
+| 🏷️ Lane | 📁 Repositories | 💡 What it shows |
 |---|---|---|
 | AI engineering | [Multi-Backend Chatbot](https://github.com/M-F-Tushar/Multi-Backend-Chatbot-with-Gradio), [Heart Disease Prediction Web App](https://github.com/M-F-Tushar/Heart-Disease-Prediction-Web-App) | Turning models and APIs into usable interfaces |
 | ML research practice | [Heart Disease Classification](https://github.com/M-F-Tushar/Heart-Disease-Classification), [Hands-On ML](https://github.com/M-F-Tushar/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow) | Data preparation, modeling, evaluation, and notebooks |
@@ -178,59 +250,88 @@ flowchart LR
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="section divider" />
 
-## Tech Stack
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-### Languages
+## 🛠️ &nbsp;Tech Stack
+
+### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,ts,js,html,css,mysql,powershell&perline=10" alt="Languages: Python, C, C++, Java, TypeScript, JavaScript, HTML, CSS, MySQL, PowerShell" />
 </p>
 
-### AI, Data, and Experimentation
+### 🧠 AI, Data, and Experimentation
 <p align="center">
   <img src="./assets/tech-ai-data.svg" alt="NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter, Hugging Face, Gradio, Streamlit, Google Colab, and Kaggle" />
 </p>
 
-### Developer Tools
+### ⚙️ Developer Tools
 <p align="center">
   <img src="./assets/tech-developer-tools.svg" alt="Git, GitHub, VS Code, PyCharm, Anaconda, Notion, Figma, Microsoft Azure, Codex, Antigravity, Wispr Flow, Vercel, and Supabase" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="section divider" />
 
-## GitHub Analytics
+<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
 
-### Core Metrics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<!-- Dynamic Badges Row -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-F-Tushar&theme=tokyonight" alt="GitHub summary stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Total%20Commits&query=%24.data.totalCommits&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DM-F-Tushar%26type%3Djson&style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="Total Commits" />
+  &nbsp;
+  <img src="https://img.shields.io/github/issues-pr/M-F-Tushar/M-F-Tushar?label=Pull%20Requests&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=githubactions&logoColor=white" alt="Pull Requests" />
+  &nbsp;
+  <img src="https://img.shields.io/github/issues/M-F-Tushar/M-F-Tushar?label=Issues&style=for-the-badge&color=22C55E&labelColor=0D1117&logo=target&logoColor=white" alt="Issues" />
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/M-F-Tushar/M-F-Tushar?label=Last%20Commit&style=for-the-badge&color=F59E0B&labelColor=0D1117&logo=github&logoColor=white" alt="Last Commit" />
+</p>
+
+<!-- Stats + Streak side by side -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-F-Tushar&theme=tokyonight" alt="GitHub Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=M-F-Tushar&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=36BCF7&fire=F59E0B&currStreakLabel=36BCF7" alt="GitHub contribution streak" height="195" />
+</p>
+
+<!-- Productive time + Commits per language -->
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-F-Tushar&theme=tokyonight&utcOffset=6" alt="Most productive coding time in Bangladesh timezone" />
-</p>
-
-### Contribution Rhythm
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-F-Tushar&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-F-Tushar&theme=tokyonight" alt="GitHub profile summary details" />
-</p>
-
-### Repository Signal
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-F-Tushar&theme=tokyonight" alt="Repositories per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-F-Tushar&theme=tokyonight" alt="Most committed languages" />
 </p>
 
-### Activity Graph
+<!-- Language per repo -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-F-Tushar&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-F-Tushar&theme=tokyonight" alt="Repositories per language" />
 </p>
 
-### Achievements
+<!-- Profile details -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-F-Tushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub profile trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-F-Tushar&theme=tokyonight" alt="GitHub profile summary details" width="100%" />
 </p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-F-Tushar&theme=tokyo-night&hide_border=true&radius=12&area=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" width="100%" />
+</p>
+
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-F-Tushar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Readme Stats" />
+</p>
+
+<!-- 3D Isometric Contribution Calendar -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-F-Tushar/M-F-Tushar/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="100%" />
+</p>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-F-Tushar/M-F-Tushar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-F-Tushar/M-F-Tushar/output/github-snake.svg" />
+  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/M-F-Tushar/M-F-Tushar/output/github-snake.svg" width="100%" />
+</picture>
 
 <!--
 ## Development Time
@@ -244,18 +345,20 @@ WakaTime metrics will appear here after the scheduled workflow runs.
 END_SECTION:waka
 -->
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="section divider" />
 
-## Education
+<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
+
+## 🎓 &nbsp;Education
 
 <div align="center">
   <table>
     <thead>
       <tr>
-        <th>Degree / Program</th>
-        <th>Institution</th>
-        <th>Location</th>
-        <th>Status</th>
+        <th>🏛️ Degree / Program</th>
+        <th>🏫 Institution</th>
+        <th>📍 Location</th>
+        <th>📌 Status</th>
       </tr>
     </thead>
     <tbody>
@@ -281,19 +384,23 @@ END_SECTION:waka
   </table>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="section divider" />
 
-## Connect
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect
 
 <p align="center">
   <a href="mailto:www.mahirfaysaltushar@gmail.com">
-    <img src="https://img.shields.io/badge/email-www.mahirfaysaltushar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email www.mahirfaysaltushar@gmail.com" />
+    <img src="https://img.shields.io/badge/Gmail-www.mahirfaysaltushar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email www.mahirfaysaltushar@gmail.com" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/mahir-faysal-tusher">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahir%20Faysal%20Tusher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mahir%20Faysal%20Tusher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/mahir.faysal.tushar.2025/">
-    <img src="https://img.shields.io/badge/Facebook-Mahir%20Faysal%20Tushar-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Mahir%20Faysal%20Tusher-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook" />
   </a>
 </p>
 
@@ -301,6 +408,3 @@ END_SECTION:waka
   <b>Open to:</b> AI engineering internships, ML research collaboration, open-source collaboration, LLM/agent projects, Python apps, learning communities, and mentorship conversations.
 </p>
 
-<p align="center">
-  <sub>If my work helps you, a star on a project means a lot and helps the right people discover it.</sub>
-</p>
