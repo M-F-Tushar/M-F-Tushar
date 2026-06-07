@@ -279,7 +279,7 @@ flowchart LR
 
 <!-- Dynamic Badges Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Total%20Commits&query=%24.data.totalCommits&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DM-F-Tushar%26type%3Djson&style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Total%20Commits&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DM-F-Tushar%26type%3Djson&style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="Total Commits" />
   &nbsp;
   <img src="https://img.shields.io/github/issues-pr/M-F-Tushar/M-F-Tushar?label=Pull%20Requests&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=githubactions&logoColor=white" alt="Pull Requests" />
   &nbsp;
