@@ -199,38 +199,38 @@ flowchart LR
 <table>
 <tr>
 <td width="50%" align="center">
+  <h3><a href="https://github.com/M-F-Tushar/GridLens">⚡ GridLens</a></h3>
+  <p>LLM-assisted energy intelligence for scenario modeling, forecasting, and evidence-grounded decision support</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/LLM-22C55E?style=flat-square" alt="LLM" /> <img src="https://img.shields.io/badge/Energy-F59E0B?style=flat-square" alt="Energy" />
+</td>
+<td width="50%" align="center">
+  <h3><a href="https://github.com/M-F-Tushar/Cropora">🌿 Cropora</a></h3>
+  <p>Android app for plant-leaf disease classification with cloud-based FastAPI inference</p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
   <h3><a href="https://github.com/M-F-Tushar/Multi-Backend-Chatbot-with-Gradio">🤖 Multi-Backend Chatbot with Gradio</a></h3>
   <p>Multi-provider conversational AI interface and integration workflow</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" /> <img src="https://img.shields.io/badge/LLM-22C55E?style=flat-square" alt="LLM" />
 </td>
 <td width="50%" align="center">
-  <h3><a href="https://github.com/M-F-Tushar/Heart-Disease-Classification">🫀 Heart Disease Classification</a></h3>
-  <p>End-to-end ML classification pipeline with evaluation and analysis</p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/ML-8B5CF6?style=flat-square" alt="ML" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
   <h3><a href="https://github.com/M-F-Tushar/Heart-Disease-Prediction-Web-App">🌐 Heart Disease Prediction Web App</a></h3>
   <p>Model deployment with an interactive web-based prediction interface</p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Deploy-F59E0B?style=flat-square" alt="Deploy" />
 </td>
-<td width="50%" align="center">
-  <h3><a href="https://github.com/M-F-Tushar/My-Portfolio">💼 My Portfolio</a></h3>
-  <p>Personal web presence, front-end implementation, and presentation</p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Web-60A5FA?style=flat-square" alt="Web" />
-</td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <h3><a href="https://github.com/M-F-Tushar/Data-Structures-and-Algorithms-Python">📊 Data Structures and Algorithms Python</a></h3>
-  <p>Algorithmic problem solving and structured Python implementations</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/DSA-A78BFA?style=flat-square" alt="DSA" /> <img src="https://img.shields.io/badge/Algorithms-36BCF7?style=flat-square" alt="Algorithms" />
+  <h3><a href="https://github.com/M-F-Tushar/Heart-Disease-Classification">🫀 Heart Disease Classification</a></h3>
+  <p>End-to-end ML classification pipeline with evaluation and analysis</p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/ML-8B5CF6?style=flat-square" alt="ML" />
 </td>
 <td width="50%" align="center">
-  <h3><a href="https://github.com/M-F-Tushar/CSE-2106-Numerical-Analysis">🔢 CSE-2106 Numerical Analysis</a></h3>
-  <p>Numerical methods practice and academic computation workflows</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Numerical-22C55E?style=flat-square" alt="Numerical" /> <img src="https://img.shields.io/badge/Academic-94A3B8?style=flat-square" alt="Academic" />
+  <h3><a href="https://github.com/M-F-Tushar/My-Todo-App">📝 To Do App</a></h3>
+  <p>Multi-interface Python task management app that adapts to your workflow</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Tasks-22C55E?style=flat-square" alt="Tasks" /> <img src="https://img.shields.io/badge/Productivity-60A5FA?style=flat-square" alt="Productivity" />
 </td>
 </tr>
 </table>
