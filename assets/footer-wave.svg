@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="t d">
+  <title id="t">Thanks for stopping by</title>
+  <desc id="d">Animated footer with flowing waves and a closing message: let's build AI that matters — for science, for people, in the open.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#190E34"/>
+      <stop offset="0.5" stop-color="#0B2447"/>
+      <stop offset="1" stop-color="#06111F"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36BCF7"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="w3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#36BCF7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#36BCF7"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22C55E"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#DCEBFF" fill-opacity="0.14"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="180" rx="28"/></clipPath>
+    <style>
+      text { font-family: 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      .rise { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; }
+      .d1 { animation-delay: .15s } .d2 { animation-delay: .4s }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="180" fill="url(#bg)"/>
+    <rect width="1200" height="180" fill="url(#dots)"/>
+
+    <path d="M0 122C300 72 300 172 600 122C900 72 900 172 1200 122C1500 72 1500 172 1800 122C2100 72 2100 172 2400 122L2400 180L0 180Z" fill="url(#w1)" fill-opacity=".22">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="16s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 136C300 96 300 176 600 136C900 96 900 176 1200 136C1500 96 1500 176 1800 136C2100 96 2100 176 2400 136L2400 180L0 180Z" fill="url(#w2)" fill-opacity=".3">
+      <animateTransform attributeName="transform" type="translate" from="-1200 0" to="0 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 150C300 120 300 180 600 150C900 120 900 180 1200 150C1500 120 1500 180 1800 150C2100 120 2100 180 2400 150L2400 180L0 180Z" fill="url(#w3)" fill-opacity=".45">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g class="rise d1">
+    <text x="600" y="66" text-anchor="middle" font-size="26" font-weight="800" fill="#F8FAFC">Thanks for stopping by</text>
+  </g>
+  <g class="rise d2">
+    <text x="600" y="98" text-anchor="middle" font-size="15" font-weight="500" fill="#C7D2E3">Let's build AI that matters — for science, for people, in the open.</text>
+  </g>
+  <rect x="540" y="112" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <rect x=".75" y=".75" width="1198.5" height="178.5" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="1.5"/>
+</svg>
