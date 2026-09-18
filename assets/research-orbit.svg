@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-labelledby="t d">
+  <title id="t">Research interests — AI for scientific discovery</title>
+  <desc id="d">Animated orbit diagram. A central AI-for-science hub with three orbiting research domains: agriculture, molecular and drug discovery, and energy-based systems, supported by data, models, and evaluation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="460" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06111F"/>
+      <stop offset="0.55" stop-color="#0B2447"/>
+      <stop offset="1" stop-color="#190E34"/>
+    </linearGradient>
+    <radialGradient id="hub" cx="40%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#BAE6FD"/>
+      <stop offset="0.45" stop-color="#36BCF7"/>
+      <stop offset="1" stop-color="#0369A1"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#DCEBFF" fill-opacity="0.14"/>
+    </pattern>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="55"/></filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1000" height="460" rx="28"/></clipPath>
+    <style>
+      text { font-family: 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      .float { animation: float 12s ease-in-out infinite; }
+      .float-slow { animation: float 16s ease-in-out -6s infinite; }
+      @keyframes float { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(0, -16px); } }
+      .fade { animation: fade 1.2s ease-out .2s both; }
+      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="460" fill="url(#bg)"/>
+    <rect width="1000" height="460" fill="url(#dots)"/>
+    <g class="float"><circle cx="840" cy="60" r="200" fill="#8B5CF6" fill-opacity="0.18" filter="url(#blur)"/></g>
+    <g class="float-slow"><circle cx="140" cy="440" r="210" fill="#22C55E" fill-opacity="0.10" filter="url(#blur)"/></g>
+    <g class="float-slow"><circle cx="520" cy="470" r="180" fill="#F59E0B" fill-opacity="0.08" filter="url(#blur)"/></g>
+  </g>
+
+  <text x="36" y="44" font-size="12" font-weight="700" letter-spacing="3" fill="#36BCF7">AI FOR SCIENTIFIC DISCOVERY</text>
+  <text x="964" y="44" text-anchor="end" font-size="12" font-weight="600" letter-spacing="1" fill="#94A3B8">DATA → MODELS → EVALUATION → IMPACT</text>
+
+  <g class="fade">
+    <!-- Orbits -->
+    <ellipse cx="500" cy="232" rx="360" ry="148" fill="none" stroke="#A78BFA" stroke-opacity=".35" stroke-width="1.2" stroke-dasharray="6 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="24s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="500" cy="232" rx="185" ry="66" fill="none" stroke="#36BCF7" stroke-opacity=".38" stroke-width="1.2" stroke-dasharray="4 8">
+      <animate attributeName="stroke-dashoffset" from="0" to="120" dur="20s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- Hub -->
+    <g transform="translate(500 232)">
+      <circle r="64" fill="#36BCF7" fill-opacity=".3" stroke="#36BCF7" stroke-opacity=".6">
+        <animate attributeName="r" values="64;150" dur="3.8s" repeatCount="indefinite"/>
+        <animate attributeName="fill-opacity" values=".22;0" dur="3.8s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values=".55;0" dur="3.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="64" fill="#36BCF7" fill-opacity=".3" stroke="#36BCF7" stroke-opacity=".6">
+        <animate attributeName="r" values="64;150" dur="3.8s" begin="-1.9s" repeatCount="indefinite"/>
+        <animate attributeName="fill-opacity" values=".22;0" dur="3.8s" begin="-1.9s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values=".55;0" dur="3.8s" begin="-1.9s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="78" fill="none" stroke="#DCEBFF" stroke-opacity=".18" stroke-width="1" stroke-dasharray="2 8">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="50s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="64" fill="url(#hub)" filter="url(#glow)"/>
+      <text y="-2" text-anchor="middle" font-size="32" font-weight="800" fill="#06111F">AI</text>
+      <text y="22" text-anchor="middle" font-size="13" font-weight="700" letter-spacing=".6" fill="#082F49">for Science</text>
+    </g>
+
+    <!-- Inner orbit: method pills (counter-clockwise) -->
+    <g font-size="12" font-weight="700" text-anchor="middle">
+      <g>
+        <animateMotion dur="22s" repeatCount="indefinite" path="M685 232A185 66 0 1 0 315 232A185 66 0 1 0 685 232"/>
+        <rect x="-38" y="-13" width="76" height="26" rx="13" fill="#0D1117" stroke="#36BCF7" stroke-opacity=".8" stroke-width="1.4"/>
+        <text y="4.5" fill="#BAE6FD">Data</text>
+      </g>
+      <g>
+        <animateMotion dur="22s" begin="-7.33s" repeatCount="indefinite" path="M685 232A185 66 0 1 0 315 232A185 66 0 1 0 685 232"/>
+        <rect x="-42" y="-13" width="84" height="26" rx="13" fill="#0D1117" stroke="#36BCF7" stroke-opacity=".8" stroke-width="1.4"/>
+        <text y="4.5" fill="#BAE6FD">Models</text>
+      </g>
+      <g>
+        <animateMotion dur="22s" begin="-14.66s" repeatCount="indefinite" path="M685 232A185 66 0 1 0 315 232A185 66 0 1 0 685 232"/>
+        <rect x="-50" y="-13" width="100" height="26" rx="13" fill="#0D1117" stroke="#36BCF7" stroke-opacity=".8" stroke-width="1.4"/>
+        <text y="4.5" fill="#BAE6FD">Evaluation</text>
+      </g>
+    </g>
+
+    <!-- Outer orbit: research domains (clockwise) -->
+    <g>
+      <animateMotion dur="36s" repeatCount="indefinite" path="M860 232A360 148 0 1 1 140 232A360 148 0 1 1 860 232"/>
+      <circle r="44" fill="#22C55E" fill-opacity=".10"/>
+      <circle r="32" fill="#0B1F33" stroke="#22C55E" stroke-width="2.5" filter="url(#glow)"/>
+      <g transform="scale(1.35)">
+        <path d="M-10 10C-10 -2 -1 -11 11 -11C11 1 2 10 -10 10Z" fill="#22C55E"/>
+        <path d="M-10 10L6 -6" stroke="#052E2B" stroke-width="1.6" stroke-linecap="round"/>
+      </g>
+      <text y="56" text-anchor="middle" font-size="13.5" font-weight="700" fill="#DCEBFF">Agriculture</text>
+    </g>
+    <g>
+      <animateMotion dur="36s" begin="-12s" repeatCount="indefinite" path="M860 232A360 148 0 1 1 140 232A360 148 0 1 1 860 232"/>
+      <circle r="44" fill="#A78BFA" fill-opacity=".12"/>
+      <circle r="32" fill="#0B1F33" stroke="#A78BFA" stroke-width="2.5" filter="url(#glow)"/>
+      <g transform="translate(-3 1) scale(1.4)">
+        <polygon points="0,-10 8.66,-5 8.66,5 0,10 -8.66,5 -8.66,-5" fill="none" stroke="#C4B5FD" stroke-width="1.9" stroke-linejoin="round"/>
+        <circle r="5.2" fill="none" stroke="#C4B5FD" stroke-width="1.4" stroke-opacity=".85"/>
+        <path d="M8.66 -5L14.5 -8.4" stroke="#C4B5FD" stroke-width="1.9" stroke-linecap="round"/>
+        <circle cx="15" cy="-8.7" r="2.9" fill="#DDD6FE"/>
+        <circle cx="0" cy="10" r="2.4" fill="#A78BFA"/>
+      </g>
+      <text y="56" text-anchor="middle" font-size="13.5" font-weight="700" fill="#DCEBFF">Molecular &amp; Drug Discovery</text>
+    </g>
+    <g>
+      <animateMotion dur="36s" begin="-24s" repeatCount="indefinite" path="M860 232A360 148 0 1 1 140 232A360 148 0 1 1 860 232"/>
+      <circle r="44" fill="#F59E0B" fill-opacity=".12"/>
+      <circle r="32" fill="#0B1F33" stroke="#F59E0B" stroke-width="2.5" filter="url(#glow)"/>
+      <path transform="scale(1.3)" d="M3 -13L-8 2L-1 2L-3 13L8 -2L1 -2Z" fill="#FBBF24"/>
+      <text y="56" text-anchor="middle" font-size="13.5" font-weight="700" fill="#DCEBFF">Energy-Based Systems</text>
+    </g>
+  </g>
+
+  <rect x=".75" y=".75" width="998.5" height="458.5" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="1.5"/>
+</svg>
