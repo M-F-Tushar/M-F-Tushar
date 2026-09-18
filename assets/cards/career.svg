@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-labelledby="t d">
+  <title id="t">Career Track — Machine Learning and AI Engineering</title>
+  <desc id="d">Building end-to-end ML systems from data to model to product, with evaluation and reproducible workflows, targeting ML and AI engineering roles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F1B33"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#36BCF7" stop-opacity=".12"/>
+      <stop offset="0.5" stop-color="#36BCF7"/>
+      <stop offset="1" stop-color="#36BCF7" stop-opacity=".12"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2 0" dur="3.4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="30"/></filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="440" height="200" rx="20"/></clipPath>
+    <style>
+      text { font-family: 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      .rise { animation: rise .8s cubic-bezier(.2,.7,.2,1) both; }
+      .d1 { animation-delay: .1s } .d2 { animation-delay: .3s } .d3 { animation-delay: .45s } .d4 { animation-delay: .6s }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="440" height="200" fill="url(#bg)"/>
+    <circle cx="410" cy="10" r="90" fill="#36BCF7" fill-opacity=".14" filter="url(#blur)"/>
+    <circle cx="30" cy="200" r="70" fill="#36BCF7" fill-opacity=".08" filter="url(#blur)"/>
+  </g>
+  <rect x=".75" y=".75" width="438.5" height="198.5" rx="19.5" fill="none" stroke="#36BCF7" stroke-opacity=".5" stroke-width="1.5"/>
+
+  <g transform="translate(56 100)">
+    <circle r="44" fill="#36BCF7" fill-opacity=".07"/>
+    <circle r="30" fill="none" stroke="#36BCF7" stroke-opacity=".7">
+      <animate attributeName="r" values="30;46" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values=".6;0" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="30" fill="#36BCF7" fill-opacity=".14" stroke="#36BCF7" stroke-opacity=".65" stroke-width="1.5"/>
+    <g filter="url(#glow)">
+      <circle r="17" fill="none" stroke="#7DD3FC" stroke-width="2"/>
+      <circle r="10" fill="none" stroke="#7DD3FC" stroke-width="2"/>
+      <circle r="3.5" fill="#36BCF7"/>
+      <path d="M19 -19L3 -3" stroke="#F8FAFC" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M2 -10L3 -3L10 -2" fill="none" stroke="#F8FAFC" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <g class="rise d1">
+    <text x="112" y="58" font-size="21" font-weight="800" fill="#F8FAFC">Career Track</text>
+    <text x="112" y="80" font-size="11.5" font-weight="700" letter-spacing="1.4" fill="#36BCF7">MACHINE LEARNING &amp; AI ENGINEERING</text>
+  </g>
+  <g font-size="14" fill="#C7D2E3">
+    <g class="rise d2"><circle cx="117" cy="110" r="3" fill="#36BCF7"/><text x="130" y="114.5">ML systems: data → model → product</text></g>
+    <g class="rise d3"><circle cx="117" cy="136" r="3" fill="#36BCF7"/><text x="130" y="140.5">Evaluation &amp; reproducible workflows</text></g>
+    <g class="rise d4"><circle cx="117" cy="162" r="3" fill="#36BCF7"/><text x="130" y="166.5">Targeting ML / AI engineering roles</text></g>
+  </g>
+  <rect x="112" y="182" width="304" height="3" rx="1.5" fill="url(#bar)"/>
+</svg>
