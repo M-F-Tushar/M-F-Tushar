@@ -263,12 +263,34 @@ flowchart LR
 
 ### 🧠 AI, Data, and Experimentation
 <p align="center">
-  <img src="./assets/tech-ai-data.svg" alt="NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter, Hugging Face, Gradio, Streamlit, Google Colab, and Kaggle" />
+  <img src="./assets/icons/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="./assets/icons/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="./assets/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib" />
+  <img src="./assets/icons/seaborn.svg" width="48" height="48" alt="Seaborn" title="Seaborn" />
+  <img src="./assets/icons/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="./assets/icons/jupyter.svg" width="48" height="48" alt="Jupyter" title="Jupyter" />
+  <img src="./assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
+  <img src="./assets/icons/gradio.svg" width="48" height="48" alt="Gradio" title="Gradio" />
+  <img src="./assets/icons/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
+  <img src="./assets/icons/colab.svg" width="48" height="48" alt="Google Colab" title="Google Colab" />
+  <img src="./assets/icons/kaggle.svg" width="48" height="48" alt="Kaggle" title="Kaggle" />
 </p>
 
 ### ⚙️ Developer Tools
 <p align="center">
-  <img src="./assets/tech-developer-tools.svg" alt="Git, GitHub, VS Code, PyCharm, Anaconda, Notion, Figma, Microsoft Azure, Codex, Antigravity, Wispr Flow, Vercel, and Supabase" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" title="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" title="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" title="Notion" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Microsoft Azure" title="Microsoft Azure" />
+  <img src="./assets/icons/codex.svg" width="48" height="48" alt="Codex" title="Codex" />
+  <img src="./assets/icons/antigravity.svg" width="48" height="48" alt="Antigravity" title="Antigravity" />
+  <img src="./assets/icons/wispr-flow.svg" width="48" height="48" alt="Wispr Flow" title="Wispr Flow" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="section divider" />
