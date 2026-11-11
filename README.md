@@ -394,7 +394,7 @@ Simulation, forecasting, and **LLM-grounded decision support** for energy system
 ### 🏆 &nbsp;GitHub Profile Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=M-F-Tushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub profile trophies for commits, pull requests, reviews, stars, repositories, experience, followers, and issues" width="100%" />
+  <img src="https://trophy.ryglcloud.net/?username=M-F-Tushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub profile trophies for commits, pull requests, reviews, stars, repositories, experience, followers, and issues" width="100%" />
 </p>
 
 <p align="center">
