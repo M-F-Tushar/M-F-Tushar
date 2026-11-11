@@ -391,6 +391,12 @@ Simulation, forecasting, and **LLM-grounded decision support** for energy system
 
 ## 📊 &nbsp;GitHub Analytics
 
+### 🏆 &nbsp;GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M-F-Tushar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub profile trophies for commits, pull requests, reviews, stars, repositories, experience, followers, and issues" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DM-F-Tushar%26type%3Djson&style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="Total contributions" />
   &nbsp;
